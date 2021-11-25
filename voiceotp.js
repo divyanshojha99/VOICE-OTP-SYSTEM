@@ -40,7 +40,7 @@ app.get('/verify_otp/:number/:code', function(req, res) {
         } else if (OriginalCode != code) {
             res.send(JSON.stringify({
                 'status': 'failure',
-                'message': 'Codes do not match — number not verified'
+                'message': 'entered code do not match — number not verified'
             }));
         } else {
             res.send(JSON.stringify({
