@@ -4,14 +4,6 @@
 </p>
 
 <h1>🚀REQUIREMENTS</h1>
->Create a Account on Plivo and set-up your node.js enviornment...**   
- <h1>🍁 Cap-Traduire</h1>
+> ### **Create a Account on Plivo and set-up your node.js enviornment..**   
 
-Communication is vital in today's era. Even more important is to have a healthy conversation in official spaces. We come across people hailing from various backgrounds, speaking various languages.
-
-> ### **Create a Account on Plivo and set-up your node.js enviornment..** Translates what you speak, for you to have an uninterrupted conversation.  
-
-   - It takes the input in the form of English 
-   - Gives output in the desired language on a single click. This program helps communication between two parties easy.
-  
-   - This software assists you in translating a language into four distinct languages
+   
