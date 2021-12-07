@@ -3,10 +3,9 @@
   <img src="https://raw.githubusercontent.com/divyanshojha99/PICBOX/5b147ac536961d7af6e940134298123fc24da964/two-factor-authentication-img.svg" height="300" breadth="400"/>
 </p>
 
- <h1>🚀REQUIREMENTS</h1>
->### **Create a Account on Plivo and set-up your node.js enviornment**   
+ 
  <h1>🍁 REQUIREMENTS</h1>
 
-> ### **Create a Account on Plivo and set-up your node.js enviornment** 
+> ### **Create a Account on Plivo and set-up your node.js enviornment...** 
 
    
